@@ -248,4 +248,4 @@ This repository serves as the official landing page for DeSmuME. The software is
 **Get the most recent version of DeSmuME today!**
 
 ---
-**Last updated:** 2026-10-10 18:59:56 UTC
+**Last updated:** 2026-10-10 22:15:06 UTC
